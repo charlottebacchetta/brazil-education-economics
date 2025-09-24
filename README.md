@@ -2,7 +2,7 @@
 
 This repository contains the full **data engineering pipeline** for preparing Brazilian **ENEM exam data (2009–2022)** and linking it with **municipal education expenditure per student**.  
 
-The scripts here demonstrate the process of **cleaning, aggregating, and merging raw datasets** into structured panel data suitable for econometric analysis (panel regressions, Difference-in-Differences, etc.).  
+The scripts here demonstrate the process of **cleaning, aggregating, and merging raw datasets** into structured panel data suitable for econometric analysis with STATA (panel regressions, Difference-in-Differences, etc.).  
 
 Project completed as part of **Quantitative Analysis II** at Columbia SIPA.  
 
